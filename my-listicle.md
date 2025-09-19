@@ -19,4 +19,4 @@
 
 
 
-- ***Recommended Shops**
+   ***Recommended Shops**
